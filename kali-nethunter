@@ -133,4 +133,4 @@ esac
 menu $1
 if [ $? != 0 ]; then
 	clear; help;
-fi
+fi[!] Using existing rootfs archive                                     [!] Using existing rootfs directory
